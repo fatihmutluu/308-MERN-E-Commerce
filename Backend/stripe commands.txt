@@ -1,0 +1,3 @@
+stripe.exe
+stripe login
+stripe listen --forward-to localhost:4040/webhook
