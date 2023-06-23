@@ -1,5 +1,7 @@
 # SU-Shoes - Shoe Selling E-commerce Website
 
+<img src="https://i.hizliresim.com/cz4br9z.png" alt="Su-Shoes Banner" align="left" width="200">
+
 SU-Shoes is a dynamic and user-friendly e-commerce website designed to provide a seamless online shopping experience for shoe enthusiasts. Built using MongoDB, React, and Node.js, this platform offers a wide range of shoes for sale, catering to different styles, sizes, and preferences.
 
 ## Features
