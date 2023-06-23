@@ -19,7 +19,7 @@ SU-Shoes is a dynamic and user-friendly e-commerce website designed to provide a
 1. Clone this repository: `git clone https://github.com/your-username/your-repo.git`
 2. Navigate to the backend directory: `cd your-repo/backend`
 3. Install backend dependencies: `npm install`
-4. Rename the `.env.example` file to `.env` and update the necessary environment variables such as MongoDB connection details and JWT secret key.
+4. Update the necessary environment variables in the file `.env` such as MongoDB connection details and JWT secret key.
 5. Start the backend server: `npm start`
 
 ### Frontend
