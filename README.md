@@ -33,7 +33,7 @@ SU-Shoes is a dynamic and user-friendly e-commerce website designed to provide a
 1. Import the provided Postman collection file (`your-repo/postman_collection.json`) into your Postman application.
 2. Update the API endpoints in the collection to match your backend server URL.
 
-Make sure to set up and configure your MongoDB database before running the backend server. You can use the provided `.env.example` file as a reference for the required environment variables.
+Make sure to set up and configure your MongoDB database before running the backend server. You can use the provided `.env` file as a reference for the required environment variables.
 
 Open your browser and visit `http://localhost:4000` to access the SU-Shoes e-commerce website.
 
